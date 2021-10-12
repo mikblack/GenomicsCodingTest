@@ -1,6 +1,6 @@
 # Genomics Coding Test
 
-Basic coding test for Genomics Aotearoa Genome Graphs project position.
+Short coding test for Genomics Aotearoa Genome Graphs project position.
 
 ## Instructions:
 
