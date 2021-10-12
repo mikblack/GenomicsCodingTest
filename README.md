@@ -6,7 +6,7 @@ Basic coding test for Genomics Aotearoa Genome Graphs project position.
 
 Generate a reproducible workflow (e.g., a shell script, R markdown file, or Jupyter notebook) that accomplishes the following:
 
-1. Download BAM file of aligned Oxford Nanopore sequence data: LINK
+1. Download BAM file of aligned Oxford Nanopore sequence data: https://raw.githubusercontent.com/mikblack/GenomicsCodingTest/main/ont-reads-aligned.bam
 
 2. Output the total number of reads in the file
 
