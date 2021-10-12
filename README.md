@@ -16,5 +16,5 @@ Generate a reproducible workflow (e.g., a shell script, R markdown file, or Jupy
 
 5. Calculate the average Phred quality score for each read, and output these averages for the first ten reads.
 
-Once you have completed these tasks, please email an appropriate file (e.g., .sh, .Rmd, .ipynb) and the outut that it produces (in html or pdf format)
+Once you have completed these tasks, please email an appropriate file (e.g., .sh, .Rmd, .ipynb) containing the required commands to carry out each step, and the output that is produced (in html or pdf format)
 to: mik.black@otago.ac.nz
